@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b00c3dc-e116-4d6b-85eb-fc3f5b20b4da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Ave.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Ave.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Galinha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Galinha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Mamifero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Mamifero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Morcego.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Morcego.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Pato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Pato.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/entities/Vaca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/entities/Vaca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Fazenda/main/Fazenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fazenda/main/Fazenda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Fazenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Fazenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/teste1.png" beforeDir="false" afterPath="$PROJECT_DIR$/teste1.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +45,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Fazenda" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Fazenda\imgs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Fazenda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,22 +103,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599171296091" />
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom" timestamp="1599175019830">
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom" timestamp="1599175330757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599175019830" />
-    <state width="1323" height="169" key="GridCell.Tab.0.center" timestamp="1599175019830">
+    <state width="1323" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
+    <state width="1323" height="107" key="GridCell.Tab.0.center" timestamp="1599175330757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599175019830" />
-    <state width="1323" height="169" key="GridCell.Tab.0.left" timestamp="1599175019830">
+    <state width="1323" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
+    <state width="1323" height="107" key="GridCell.Tab.0.left" timestamp="1599175330757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599175019830" />
-    <state width="1323" height="169" key="GridCell.Tab.0.right" timestamp="1599175019830">
+    <state width="1323" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
+    <state width="1323" height="107" key="GridCell.Tab.0.right" timestamp="1599175330757">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599175019830" />
+    <state width="1323" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1599169389800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
