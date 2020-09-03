@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b00c3dc-e116-4d6b-85eb-fc3f5b20b4da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/teste1.png" beforeDir="false" afterPath="$PROJECT_DIR$/teste1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/teste3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/teste2.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/teste2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Fazenda\imgs" />
       <recent name="C:\Users\user\IdeaProjects\Fazenda" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
