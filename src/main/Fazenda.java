@@ -23,6 +23,7 @@ public class Fazenda {
             if(bird != null) System.out.println(bird.porOvo());
             if(mammal != null) System.out.println(mammal.amamentar());
             if(flyingAnimal != null) System.out.println(flyingAnimal.voar());
+            apagarAnimaisDaMemoria();
             System.out.println("--------------");
         }
         while(option != 5);
@@ -84,6 +85,12 @@ public class Fazenda {
         System.out.print(">> ");
     }
 
+    public static void apagarAnimaisDaMemoria(){
+        animal = null;
+        flyingAnimal = null;
+        bird = null;
+        mammal = null;
+    }
 
     public static void printValoresAnimal(Animal animal){
         System.out.println();
