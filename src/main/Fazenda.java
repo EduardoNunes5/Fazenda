@@ -60,7 +60,7 @@ public class Fazenda {
                 break;
             case 3:
                 System.out.print("Digite a cor do pelo da vaca:  ");
-                color = sc.next();
+                color = sc.nextLine();
                 mammal = new Vaca(age,size,color);
                 animal = new Vaca(age,size,color);
                 break;
