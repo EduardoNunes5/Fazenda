@@ -6,7 +6,7 @@ package entities;
 public interface Voador {
     /**
      * Metodo que retorna uma String representando o voo de um objeto capaz de voar.
-     * @return
+     * @return String - cadeira de caracteres representativa de um objeto voador.
      */
     String voar();
 }
