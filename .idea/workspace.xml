@@ -36,15 +36,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h0yal5NzuqDf6x5yQNTwrNUJMp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -96,7 +100,23 @@
       <option name="presentableId" value="Default" />
       <updated>1599162371217</updated>
       <workItem from="1599274308234" duration="106000" />
+      <workItem from="1599274422586" duration="347000" />
     </task>
+    <task id="LOCAL-00001" summary="correcao no scanner">
+      <created>1599274556188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599274556188</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1599274699496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599274699496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,31 +134,49 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="correcao no scanner" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1599171296091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1599171296091" />
-    <state width="1323" height="107" key="GridCell.Tab.0.bottom" timestamp="1599175330757">
+    <state x="441" y="98" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599274674524">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
-    <state width="1323" height="107" key="GridCell.Tab.0.center" timestamp="1599175330757">
+    <state x="441" y="98" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1599274674524" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599274596753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
-    <state width="1323" height="107" key="GridCell.Tab.0.left" timestamp="1599175330757">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599274596753" />
+    <state width="1323" height="312" key="GridCell.Tab.0.bottom" timestamp="1599274674587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
-    <state width="1323" height="107" key="GridCell.Tab.0.right" timestamp="1599175330757">
+    <state width="1323" height="312" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599274674587" />
+    <state width="1323" height="312" key="GridCell.Tab.0.center" timestamp="1599274674587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599175330757" />
+    <state width="1323" height="312" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599274674587" />
+    <state width="1323" height="312" key="GridCell.Tab.0.left" timestamp="1599274674587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599274674587" />
+    <state width="1323" height="312" key="GridCell.Tab.0.right" timestamp="1599274674587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="312" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599274674587" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1599169389800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599169389800" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599274770568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599274770568" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599172882668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
